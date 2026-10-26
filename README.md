@@ -3,7 +3,7 @@
 COMP 3322 Software Engineering, Fall 2026. Team: **<team name>**
 
 | Member | GitHub username | Story I own |
-| --- | --- | --- |
+|De'Camre Roseway | DRoseway--- | -Stories 2&3-- |
 | | | |
 | | | |
 | | | |
